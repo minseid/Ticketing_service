@@ -1,4 +1,4 @@
-package com.example.ticketing.network.request;
+package com.example.ticketing.ticketing;
 
 public class TicketRequest {
     private Long userId;

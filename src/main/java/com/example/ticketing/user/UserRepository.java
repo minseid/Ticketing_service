@@ -1,6 +1,5 @@
-package com.example.ticketing.repo;
+package com.example.ticketing.user;
 
-import com.example.ticketing.entity.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
